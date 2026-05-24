@@ -1,0 +1,3 @@
+$$
+\mathrm{ASRI} = (S \times 0.6) - (D \times 0.4)
+$$
